@@ -57,7 +57,7 @@ void display(int n){
     printf("%d\n",p[i].tatime);
 
     //sort the 
-    sorts(n,i);
+    sorts(n,i+1);
         
     }
 }
